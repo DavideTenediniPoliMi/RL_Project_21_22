@@ -1,2 +1,5 @@
-# RL_Project_2021
-This was the project assignment for the Digital Logic Design course.
+# Digital Logic Design Project 2021/2022 (Convolutional Encoder)
+## PoliMi (RL 085877 Prof. G. Palermo)
+The VHDL code and the report received the maximum score (30L).
+## Problem
+The full requirements and a detailed analysis of the solution can be found in the respective files.
